@@ -2,7 +2,10 @@ This project is to build on practicing my basic HTML knowledge that I have learn
 
 After completing this project, I have accomplished:
 
--Properly set up html file accordingly
--Link html files together
--Input images with alternative text
--Create ordered and unordered lists
+-Properly seting up html files accordingly
+-Linked html files together
+-Inputed images with alternative text
+-Created ordered and unordered lists for the steps and recipes
+-Added in cooking notes by emphasizing them at bottom of the page
+-Added a Home/main page button on recipes sites to go back to starting page
+-used body and paragraph elements to describe what the recipe is all about
