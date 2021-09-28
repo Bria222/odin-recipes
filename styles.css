@@ -20,6 +20,23 @@
 /*end of index.html styles */
 
 /*applecrumble styles */
+.intro
+{
+    text-align: center
+}
+.image
+{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#instructions
+{
+    font-family: 'Trebuchet MS','Lucida Sans', Arial, sans-serif;
+}
+
 #instructions .ingredients {
     background-color: lightyellow;
 }
@@ -34,4 +51,4 @@
 /*end of pot roast styles */
 
 /*italianstew styles */
-/*end of italianstew styles */
+/*end of italianstew styles */ 
