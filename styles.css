@@ -20,29 +20,40 @@
 /*end of index.html styles */
 
 /*applecrumble styles */
-.intro
-{
-    text-align: center
+#home {
+    font-size: 25px;
 }
-.image
-{
-    display:block;
+
+.intro {
+    text-align: center;
+    font-size: 40px;
+}
+
+.image {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 20%;
 }
 
-#instructions
-{
-    font-family: 'Trebuchet MS','Lucida Sans', Arial, sans-serif;
+#description {
+    font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
 }
 
+#instructions {
+    font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
 #instructions .ingredients {
-    background-color: lightyellow;
+    background-color: lightgoldenrodyellow;
 }
 
 #instructions .steps {
-    background-color: lightcoral;
+    background-color: lightsteelblue;
+    color:black;
 }
 
 /*end of applecrumb styles */
@@ -51,4 +62,4 @@
 /*end of pot roast styles */
 
 /*italianstew styles */
-/*end of italianstew styles */ 
+/*end of italianstew styles */
