@@ -1,6 +1,6 @@
 /*index.html styles */
 #title{
-    background-color: #E990FF;
+    background-color: yellow;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -14,7 +14,7 @@
 .recipe-links
 {
     background-color: lightpink;
-    color: red;
+    color: white;
 }
 /*end of index.html styles */
 
