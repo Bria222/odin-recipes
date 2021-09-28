@@ -1,24 +1,33 @@
 /*index.html styles */
-#title{
-    background-color: yellow;
+#title {
+    background-color: lightskyblue;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    color: black;
 }
 
-.body-main{
+.body-main {
     background-color: #4DF8FF;
-    font-family:'Trebuchet MS', sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.recipe-links
-{
+.recipe-links {
     background-color: lightpink;
     color: white;
 }
+
 /*end of index.html styles */
 
 /*applecrumble styles */
+#instructions .ingredients {
+    background-color: lightyellow;
+}
+
+#instructions .steps {
+    background-color: lightcoral;
+}
+
 /*end of applecrumb styles */
 
 /*pot roast styles */
