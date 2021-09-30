@@ -20,8 +20,18 @@
 /*end of index.html styles */
 
 /*applecrumble styles */
+#titleapp {
+    background-color: #540b0e;
+    color: white;
+    text-align: center
+}
+
+.background {
+    background-color: #e09f3e;
+}
+
 #home {
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .intro {
@@ -33,12 +43,12 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 30%;
 }
 
 #description {
     font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #instructions {
@@ -52,14 +62,34 @@
 }
 
 #instructions .steps {
-    background-color: lightsteelblue;
-    color:black;
+    background-color: #ffd5c2;
+    color: black;
+    font-size: 20px;
 }
 
 /*end of applecrumb styles */
 
 /*pot roast styles */
+.body-main2 {
+    background-color: coral;
+}
+
+.roast-title {
+    background-color: darkgoldenrod;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
 /*end of pot roast styles */
 
 /*italianstew styles */
+.stew-intro{
+    text-align: center;
+    font-size: 36px;
+    background-color: lavenderblush;
+}
+.body-main3{
+    background: hsl(26, 38%, 78%);
+}
 /*end of italianstew styles */
