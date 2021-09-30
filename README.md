@@ -12,3 +12,6 @@ This project is to build on practicing my basic HTML knowledge that I have learn
 * used body and paragraph elements to describe what the recipe is all about
 * Linked a CSS stylesheet to the HTML files
 * Properly implemented various types of CSS selectors and inheritance, keeping in mind of specificity rules.
+
+
+Source of project: https://www.theodinproject.com/paths/foundations/courses/foundations
